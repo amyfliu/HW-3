@@ -1,4 +1,4 @@
-# Hw3
+# Homework 3
 # Grade point average
 #
 gpa.df <- read.table("CH01PR19.txt",header=FALSE)
@@ -8,7 +8,6 @@ fit1 <- lm(gpa ~ act,data=gpa.df)
 summary(fit1)
 # Critical constant for 95 percent CI for beta_1
 cc <- qt(.975,118); cc
-
 
 
 #  Extra practice (not on Hw3)
