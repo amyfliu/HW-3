@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569188636145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1721940792",
+    "id" : "2FC01B85",
+    "lastKnownWriteTime" : 1569206705,
+    "last_content_update" : 1569206705,
+    "path" : "~/4210R/HW 3/hw3.r",
+    "project_path" : "hw3.r",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "5"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

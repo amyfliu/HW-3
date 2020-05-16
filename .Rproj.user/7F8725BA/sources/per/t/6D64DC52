@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569188754576.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6D64DC52",
+    "lastKnownWriteTime" : 2317443265784274736,
+    "last_content_update" : 1569188754576,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "78E61A9E",
+        "caption" : "gpa.df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gpa.df&cache_key=78E61A9E",
+        "displayedObservations" : 120,
+        "environment" : "",
+        "object" : "gpa.df",
+        "preview" : 0,
+        "totalObservations" : 120,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
